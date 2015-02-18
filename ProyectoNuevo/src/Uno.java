@@ -4,5 +4,6 @@ public class Uno {
 		int valor1;
 		int valor2;
 		int valor3;
+		int valor4;
 	}
 }

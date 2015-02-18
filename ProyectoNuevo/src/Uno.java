@@ -6,5 +6,6 @@ public class Uno {
 		int valor3;
 		int valor4;
 		int valor5;
+		int valor6;
 	}
 }

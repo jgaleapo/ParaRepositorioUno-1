@@ -9,5 +9,6 @@ public class Uno {
 		int valor6;
 		int propseis;
 		int plsnomoreks;
+		int otraks;
 	}
 }
